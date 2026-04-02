@@ -1392,3 +1392,252 @@
     "Chilean Seafood (Sea Bass, Mussels, Abalone)",
     "Thai Seafood (Vannamei Shrimp, Tuna, Squid)",
     "African Lake Fish (Nile Perch, Tilapia, Catfish)"
+
+
+
+
+
+
+
+
+
+    #  "ECO-FRIENDLY COOKWARE & KITCHEN PRODUCTS",
+    # "Kitchen Utensils & Tools",
+    # "Bamboo & Wooden Utensils (Spoons, Spatulas, Ladles)",
+    # "Bamboo & Wooden Cutting Boards",
+    # "Bamboo & Wood Handled Knives & Cutting Tools",
+    # "Wooden / Bamboo Measuring Tools",
+
+    # "Sustainable Table Linens & Accessories",
+    # "Organic Cotton & Linen Napkins",
+    # "Hemp & Bamboo Fiber Napkins",
+    # "Linen Tablecloths",
+    # "Compostable Disposable Tableware",
+
+    # "Composting & Food Waste Solutions",
+    # "Bamboo Compost Buckets",
+    # "Ceramic Compost Crocks",
+    # "Plastic-Free Compost Bins with Carbon Filters",
+    # "Vermicomposting Kits",
+    # "Garden Compost Tumblers",
+
+    # "Kitchen Cleaning Tools",
+    # "Biodegradable Dish Brushes",
+    # "Natural Scrubbers & Scourers",
+    # "Compostable & Reusable Sponges",
+    # "Reusable Cleaning Cloths",
+    # "Natural Dish Soap & Cleaning Products",
+
+    # "Food Wraps & Covers",
+    # "Beeswax & Plant-Based Reusable Wraps",
+    # "Silicone Bowl & Pot Covers",
+    # "Compostable Food Bags",
+    # "Organic Cotton Produce & Grocery Bags",
+
+    # "Food Storage Containers",
+    # "Glass Food Storage Containers",
+    # "Bamboo Storage Jars",
+    # "Compostable Freezer Bags",
+
+    # "Flatware, Cutlery & Straws",
+    # "Bamboo & Wooden Cutlery",
+    # "Compostable & Biodegradable Cutlery",
+    # "Reusable Straws (Metal, Glass, Bamboo, Silicone)",
+    # "Compostable Straws (Plant-Based)",
+
+    # "Drinkware",
+    # "Glass Drinkware",
+    # "Ceramic Drinkware",
+    # "Bamboo & Wooden Drinkware",
+
+    # "Eco-Friendly Dinnerware",
+    # "Ceramic & Porcelain Dinnerware",
+    # "Bamboo Dinnerware",
+    # "Compostable & Biodegradable Dinnerware",
+
+    # "Non-Toxic Cookware",
+    # "Ceramic Cookware (Pots, Pans, Sets)",
+    # "Cast Iron Cookware (Skillets, Dutch Ovens)",
+    # "Enamel-Coated Cast Iron (Dutch Ovens, Skillets)",
+    # "Carbon Steel Cookware (Frying Pans, Woks)"
+
+
+
+
+
+
+
+
+
+
+
+
+       # "KIDS TOYS & GAMES",
+
+        # "Educational & Learning Toys",
+        # "Science & Coding Kits",
+        # "Math & Logic Games",
+        # "Learning Tablets & Robots",
+
+        # "Building & Construction Toys",
+        # "Interlocking Bricks & Blocks",
+        # "Magnetic Tiles & Sets",
+        # "Marble Runs & Gear Sets",
+        # "Wooden Building Sets",
+
+        # "Games & Puzzles",
+        # "Jigsaw Puzzles",
+        # "Wooden & Floor Puzzles",
+        # "Rubik's & Logic Puzzles",
+        # "Board Games (Classic & Strategy)",
+
+        # "Pretend Play & Role Play",
+        # "Play Kitchens & Food Sets",
+        # "Doctor & Tool Sets",
+        # "Dollhouses & Accessories",
+        # "Costumes & Dress-Up",
+
+        # "Arts & Crafts",
+        # "Coloring & Drawing Kits",
+        # "Paint & Clay Sets",
+        # "Slime & Sensory Craft Kits",
+        # "Jewelry & DIY Kits",
+
+        # "Plush & Stuffed Toys",
+        # "Stuffed Animals & Plush Figures",
+        # "Interactive Plush Toys",
+        # "Puppets & Hand Puppets",
+
+        # "Vehicles & Action Toys",
+        # "Die-Cast Cars & Tracks",
+        # "RC Cars & Vehicles",
+        # "Toy Trains & Sets",
+        # "Action Figures & Playsets",
+
+        # "Outdoor & Sports Toys",
+        # "Ride-Ons, Scooters & Bikes",
+        # "Balls & Active Play Sets",
+        # "Water & Sand Toys",
+        # "Swing Sets & Outdoor Games",
+
+        # "Sensory & Fidget Toys",
+        # "Fidget Spinners & Pop Its",
+        # "Kinetic Sand & Slime",
+        # "Sensory Bins & Chew Toys",
+
+        # "Musical Toys & Instruments",
+        # "Toy Instruments (Xylophones, Drums)",
+        # "Rhythm & Percussion Sets",
+        # "Electronic Musical Toys",
+
+        # "Electronic & Interactive Toys",
+        # "Kids Tablets & Learning Devices",
+        # "Coding Robots & Drones",
+        # "Interactive Figures & Gadgets",
+
+        # "Baby & Toddler Toys (0-3 Years)",
+        # "Rattles & Grasping Toys",
+        # "Soft Plush & Teething Toys",
+        # "Activity Gyms & Play Mats",
+        # "Bath Toys",
+        # "Musical & Sensory Toys",
+
+        # "Preschool Toys (3-5 Years)",
+        # "Building Blocks & Construction Sets",
+        # "Shape Sorters & Stacking Toys",
+        # "Simple Puzzles & Educational Toys",
+        # "Pretend Play & Role Play Sets",
+        # "Ride-On & Push Toys",
+
+        # "Kids Toys (5-8 Years)",
+        # "Action Figures & Playsets",
+        # "Dolls & Accessories",
+        # "Vehicles & Remote-Controlled Toys",
+        # "Arts & Crafts Kits",
+        # "Board Games & Puzzles",
+
+        # "Older Kids Toys (8+ Years)",
+        # "STEM & Science Kits",
+        # "Building & Engineering Sets",
+        # "Strategy & Brain Games",
+        # "Electronic & Tech Toys",
+        # "Sports & Outdoor Toys"
+
+
+
+
+
+
+
+
+
+
+
+           # "FOOD & BEVERAGE",
+
+        # "MEAT, POULTRY & EGGS",
+        # "Fresh & Chilled Meat (Beef, Lamb, Pork)",
+        # "Poultry (Chicken, Turkey, Duck)",
+        # "Eggs",
+        # "Processed & Frozen Meat (Sausages, Cured Meats, Frozen Cuts)",
+        # "Plant-Based Meat Alternatives",
+
+        # "DAIRY & DAIRY ALTERNATIVES",
+        # "Fresh Dairy (Milk, Butter, Cream, Cheese, Yogurt)",
+        # "Processed Dairy (UHT Milk, Powdered Milk)",
+        # "Dairy Alternatives (Oat Milk, Almond Milk, Soy Milk, Coconut Milk)",
+
+        # "RICE",
+        # "White Rice (Basmati, Jasmine, Long-Grain)",
+        # "Whole Grain Rice (Brown, Black, Red)",
+        # "Specialty Rice (Arborio, Sticky)",
+        # "Rice Products",
+
+        # "GRAINS & CEREALS",
+        # "Wheat-Based (Whole Wheat, Barley, Oats)",
+        # "Ancient Grains (Quinoa, Millet, Buckwheat)",
+        # "Grain Products",
+
+        # "PULSES & LEGUMES",
+        # "Lentils",
+        # "Beans (Chickpeas, Kidney, Black)",
+        # "Peas & Broad Beans",
+
+        # "CONDIMENTS, SAUCES & OILS",
+        # "Condiments (Soy Sauce, Ketchup, Mustard)",
+        # "Cooking Oils",
+        # "Pastes & Spreads (Tahini, Nut Butters, Tomato Paste)",
+
+        # "SNACKS & CONFECTIONERY",
+        # "Savory Snacks (Chips, Crackers, Nuts)",
+        # "Sweet Snacks (Chocolate, Gummies, Dried Fruit)",
+        # "Healthy Snacks (Granola Bars, Seed Bars)",
+
+        # "FROZEN FOODS",
+        # "Frozen Meat & Poultry",
+        # "Frozen Ready Meals",
+
+        # "CANNED & JARRED FOODS",
+        # "Canned Vegetables & Pulses (Tomatoes, Beans, Corn)",
+        # "Canned Fruits & Protein",
+        # "Preserved Condiments (Olives, Sun-Dried Tomatoes)",
+
+        # "BEVERAGES",
+        # "Non-Alcoholic (Juices, Soft Drinks, Water, Energy Drinks)",
+        # "Plant-Based & Functional Drinks",
+        # "Alcoholic Beverages (Beer, Wine, Spirits)",
+
+        # "BAKING & INGREDIENTS",
+        # "Flours & Baking Mixes",
+        # "Sweeteners (Honey, Sugar, Maple Syrup, Agave)",
+        # "Baking Aids (Yeast, Baking Powder)",
+
+        # "SPECIALTY & FUNCTIONAL FOODS",
+        # "Superfoods (Chia, Flax, Hemp Seeds, Spirulina, Goji)",
+        # "Probiotic & Gut Health Foods",
+        # "Specialty Diet Foods (Gluten-Free, Keto, Vegan/Plant-Based)",
+
+        # "REGIONAL & ETHNIC FOODS",
+        # "Asian Specialty (Noodles, Sauces, Rice Products)",
+        # "Middle Eastern & Mediterranean (Tahini, Spices, Olives)",
+        # "Latin American & Other Ethnic Ingredients"

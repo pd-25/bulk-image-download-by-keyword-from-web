@@ -156,7 +156,102 @@ def search_and_download_images(keywords, download_folder):
 if __name__ == "__main__":
     # Your keywords
     keywords = [
-    # Here pass the keywords
+        "AGRICULTURAL DRONES & ROBOTS",
+
+        "CROP SPRAYING DRONES",
+        "Mini Entry Spray Drones",
+        "Medium Spray Drones",
+        "Professional Spray Drones",
+        "Heavy-Duty Spray Drones",
+
+        "CROP MONITORING & MAPPING DRONES",
+        "RGB Imaging Drones",
+        "Entry-Level Mapping Drones",
+        "Multispectral Imaging Drones",
+        "Hyperspectral Imaging Drones",
+
+        "ROTARY WING DRONES (MULTI-ROTOR)",
+        "Quadcopters (4 rotors)",
+        "Hexacopters (6 rotors)",
+        "Octocopters (8 rotors)",
+
+        "FIXED WING DRONES",
+        "Long-Range Mapping Drones",
+        "Survey & Inspection Drones",
+        "Large-Area Monitoring Drones",
+        "VTOL (Vertical Take-Off and Landing) Hybrid Drones",
+
+        "SEEDING & SPREADING DRONES",
+        "Seed Dispersal Drones",
+        "Fertilizer spreading systems",
+        "Granular material applicators",
+        "Cover crop seeding",
+
+        "DRONE PAYLOAD SYSTEMS",
+        "Small Payload",
+        "Medium Payload",
+        "Large Payload",
+        "Heavy Payload",
+
+        "SPRAY SYSTEM COMPONENTS",
+        "Nozzle Systems",
+        "Pump Systems",
+        "Tank Modules",
+        "Flow Control Systems",
+
+        "BATTERIES & POWER",
+        "Standard Li-Po Batteries",
+        "Extended Flight Batteries",
+        "Quick-Swap Battery Systems",
+        "Charging Stations",
+        "Diesel-Electric Hybrid Systems",
+
+        "GROUND SUPPORT EQUIPMENT",
+        "RTK Base Stations",
+        "Ground Control Stations",
+        "Weather Stations",
+        "Multi-Battery Chargers",
+        "Battery Cooling Stations",
+        "Generators",
+
+        "SEEDING & PLANTING ROBOTS",
+        "Precision Seeding Robots",
+        "Transplanting Robots",
+        "Specialty Planting Robots",
+
+        "HARVESTING ROBOTS",
+        "General Fruit and Vegetable Pickers",
+        "Strawberry picking robots",
+        "Apple harvesting robots",
+        "Lettuce harvesting systems",
+        "Grape harvesting robots",
+        "Autonomous cotton picker",
+
+        "WEEDING ROBOTS",
+        "AI-Powered Weeding Robots",
+        "Mechanical and Physical Weeding Robots",
+        "Vineyard and Orchard Weeding Robots",
+
+        "MONITORING & INSPECTION ROBOTS",
+        "Mobile robots with cameras and sensors",
+        "Field scouting robots",
+        "Soil analysis robots",
+        "3D plant mapping and monitoring robots",
+
+        "AUTONOMOUS FIELD ROBOTS",
+        "Battery-Powered Compact Electric Field Robots",
+        "Diesel/Hybrid Powered Robots",
+
+        "SPECIALTY ROBOTS",
+        "Post-Harvest Processing Robots",
+        "Dairy Automation Robots",
+        "Livestock Management Robots",
+        "Sheep and Fibre Livestock Robots",
+        "Nursery and Greenhouse Handling Robots",
+
+        "AUTONOMOUS TRACTORS",
+        "Full Autonomous Tractors",
+        "GPS-Guided AutoPilot Tractors"
     ]
     
     # Save images next to the script (works on any OS)
